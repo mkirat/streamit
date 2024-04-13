@@ -14,6 +14,8 @@ const ClientWalletProvider = (
         []
     )
 
+
+
     return <WalletProvider wallets={wallets} {...props} />
 }
 
